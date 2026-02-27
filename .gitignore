@@ -1,0 +1,13 @@
+# Secrets
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+# Conversations privées
+conversations/
+# IDE
+.vscode/
+.idea/
